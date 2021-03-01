@@ -1,0 +1,14 @@
+C:\Users\danii\source\repos\InstaParser\InstaParser\bin\Debug\InstaParser.exe.config
+C:\Users\danii\source\repos\InstaParser\InstaParser\bin\Debug\InstaParser.exe
+C:\Users\danii\source\repos\InstaParser\InstaParser\bin\Debug\InstaParser.pdb
+C:\Users\danii\source\repos\InstaParser\InstaParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\danii\source\repos\InstaParser\InstaParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\danii\source\repos\InstaParser\InstaParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\danii\source\repos\InstaParser\InstaParser\obj\Debug\InstaParser.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\InstaParser\InstaParser\obj\Debug\InstaParser.Form1.resources
+C:\Users\danii\source\repos\InstaParser\InstaParser\obj\Debug\InstaParser.Properties.Resources.resources
+C:\Users\danii\source\repos\InstaParser\InstaParser\obj\Debug\InstaParser.csproj.GenerateResource.cache
+C:\Users\danii\source\repos\InstaParser\InstaParser\obj\Debug\InstaParser.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\InstaParser\InstaParser\obj\Debug\InstaParser.csproj.CopyComplete
+C:\Users\danii\source\repos\InstaParser\InstaParser\obj\Debug\InstaParser.exe
+C:\Users\danii\source\repos\InstaParser\InstaParser\obj\Debug\InstaParser.pdb
